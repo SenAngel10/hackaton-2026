@@ -1,1 +1,1 @@
-# Hackaton-2026-equipo
+# Hackaton-2026
