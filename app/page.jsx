@@ -17,7 +17,7 @@ export default function Home() {
       setContador((c) => c + 1); //a la hora de la prueba xd
       //el estardar es pasar un objeto de role y content al modelo
       let msgUser = { role: "user", content: `${textU}` };
-      const url = "http://localhost:3000/api/chat";
+      const url = "/api/chat";
       try {
         const resp = await fetch(url, {
           method: "POST",
