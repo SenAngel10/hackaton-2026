@@ -40,4 +40,4 @@ El proyecto está desplegado en un VPS de CubePath, donde corre la aplicación N
 
 ## Notas
 
-Proyecto en fase temprana. Los modelos de AI utilizados son gratuitos y pueden tener disponibilidad variable según el uso.
+Proyecto en fase temprana. Los modelos de AI utilizados son gratuitos y pueden tener disponibilidad variable según el uso, limite de uso 20 por usuario para que no se gasten mis request antes de que lo prueben los jueces, responsive en pantallas grandes no ajustado.
