@@ -28,7 +28,7 @@ Simula una conversación en inglés con un modelo de lenguaje (LLM) que analiza 
 - **Frontend:** Next.js + React + Tailwind CSS
 - **Backend:** Next.js API Routes
 - **AI:** Sistema de fallback entre múltiples modelos gratuitos (Groq, Cerebras, OpenRouter)
-- **Deploy:** CubePath VPS
+- **Deploy:** CubePath VPS (nano alojado en Europa)
 
 ## Cómo se usó CubePath
 
