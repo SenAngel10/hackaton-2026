@@ -19,7 +19,7 @@ Simula una conversación en inglés con un modelo de lenguaje (LLM) que analiza 
 <div align="center">
   <img width="800" alt="English Advisor Chat" src="https://github.com/user-attachments/assets/82743fa8-3a16-4114-9d97-0a02e2fac51c" />
   <br/><br/>
-  <img width="600" alt="Feedback de errores" src="https://github.com/user-attachments/assets/515610bf-fed5-462b-a49a-797988c65a70" />
+  <img width="1005" height="449" alt="image" src="https://github.com/user-attachments/assets/87dc2ae4-3ad6-4269-8a93-9b5341d1b9da" />
 </div>
 <!-- Agrega tus screenshots aquí -->
 
