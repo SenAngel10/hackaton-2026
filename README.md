@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# English Advisor
 
-## Getting Started
+Una aplicación web conversacional para practicar y mejorar tu escritura en inglés con retroalimentación en tiempo real.
 
-First, run the development server:
+## ¿Qué hace?
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Simula una conversación en inglés con un modelo de lenguaje (LLM) que analiza tu escritura y te da:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- ✅ Correcciones gramaticales y de puntuación
+- 💡 Sugerencias de expresiones más naturales
+- 📝 Explicaciones en español para que entiendas el error
+- 🔄 Feedback estructurado por cada oración analizada
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Demo
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+🔗 [advisor.brayanangelcast.com](http://advisor.brayanangelcast.com/)
 
-## Learn More
+## Capturas
 
-To learn more about Next.js, take a look at the following resources:
+<!-- Agrega tus screenshots aquí -->
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Frontend:** Next.js + React + Tailwind CSS
+- **Backend:** Next.js API Routes
+- **AI:** Sistema de fallback entre múltiples modelos gratuitos (Groq, Cerebras, OpenRouter, Gemini)
+- **Deploy:** CubePath VPS
 
-## Deploy on Vercel
+## Cómo se usó CubePath
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+El proyecto está desplegado en un VPS de CubePath, donde corre la aplicación Next.js en producción con un dominio personalizado configurado a través de Cloudflare DNS.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Repositorio
+
+🔗 [github.com/senangel10/hackaton-2026](https://github.com/senangel10/hackaton-2026)
+
+## Notas
+
+Proyecto en fase temprana. Los modelos de AI utilizados son gratuitos y pueden tener disponibilidad variable según el uso.
