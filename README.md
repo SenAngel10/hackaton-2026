@@ -16,7 +16,11 @@ Simula una conversación en inglés con un modelo de lenguaje (LLM) que analiza 
 🔗 [advisor.brayanangelcast.com](http://advisor.brayanangelcast.com/)
 
 ## Capturas
-
+<div align="center">
+  <img width="800" alt="English Advisor Chat" src="https://github.com/user-attachments/assets/82743fa8-3a16-4114-9d97-0a02e2fac51c" />
+  <br/><br/>
+  <img width="600" alt="Feedback de errores" src="https://github.com/user-attachments/assets/515610bf-fed5-462b-a49a-797988c65a70" />
+</div>
 <!-- Agrega tus screenshots aquí -->
 
 ## Stack
